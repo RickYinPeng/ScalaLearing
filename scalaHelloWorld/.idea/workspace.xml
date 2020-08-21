@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c9ae23c-6823-4c5a-85da-f8b7b783f353" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="userSettingsFile" value="D:\Develop\Maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YKzvyAgckqf3O58pQhKZp9mRcA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/com/rickyin/bigdata/scala/chapter14" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rickyin.bigdata.scala.chapter10" />
+      <recent name="com.rickyin.bigdata.scala.chapter09" />
+      <recent name="com.rickyin.bigdata.java" />
+      <recent name="com.rickyin.bigdata.scala.chapter060708" />
+      <recent name="com.rickyin.bigdata.scala.chapter05" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\IdeaWorpace\scalaHelloWorld\src\main\scala\com\rickyin\bigdata\scala\chapter14" />
+      <recent name="D:\WorkSpace\IdeaWorpace\scalaHelloWorld\src\main\scala\com\rickyin\bigdata\scala\chapter09" />
+      <recent name="D:\WorkSpace\IdeaWorpace\scalaHelloWorld\src\main\scala\com\rickyin\bigdata\scala\chapter060708" />
+      <recent name="D:\WorkSpace\IdeaWorpace\scalaHelloWorld\src\main\java\com\rickyin\bigdata\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Scala03_Transform2">
+    <configuration name="Scala02_Match1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.rickyin.bigdata.scala.chapter12.Scala02_Match1" />
+      <module name="scalaHelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rickyin.bigdata.scala.chapter12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala03_Transform2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.rickyin.bigdata.scala.chapter09.Scala03_Transform2" />
+      <module name="scalaHelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rickyin.bigdata.scala.chapter09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala10_WordCountFile" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.rickyin.bigdata.scala.chapter10.Scala10_WordCountFile" />
+      <module name="scalaHelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rickyin.bigdata.scala.chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala11_Method2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.rickyin.bigdata.scala.chapter10.Scala11_Method2" />
+      <module name="scalaHelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rickyin.bigdata.scala.chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala13_Method4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.rickyin.bigdata.scala.chapter10.Scala13_Method4" />
+      <module name="scalaHelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rickyin.bigdata.scala.chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Scala03_Transform2" />
+        <item itemvalue="Application.Scala02_Match1" />
+        <item itemvalue="Application.Scala13_Method4" />
+        <item itemvalue="Application.Scala11_Method2" />
+        <item itemvalue="Application.Scala10_WordCountFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c9ae23c-6823-4c5a-85da-f8b7b783f353" name="Default Changelist" comment="" />
+      <created>1582706307145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582706307145</updated>
+      <workItem from="1582706309208" duration="2161000" />
+      <workItem from="1582729836856" duration="2354000" />
+      <workItem from="1582769986658" duration="13796000" />
+      <workItem from="1582817346393" duration="3923000" />
+      <workItem from="1582854873064" duration="7297000" />
+      <workItem from="1583028990082" duration="11128000" />
+      <workItem from="1583143643557" duration="10603000" />
+      <workItem from="1583203797288" duration="16305000" />
+      <workItem from="1583296194478" duration="13152000" />
+      <workItem from="1583331799310" duration="407000" />
+      <workItem from="1583333063236" duration="7000" />
+      <workItem from="1583375729801" duration="18565000" />
+      <workItem from="1583459365178" duration="224000" />
+      <workItem from="1583461330144" duration="15214000" />
+      <workItem from="1583559324131" duration="1883000" />
+      <workItem from="1583635656158" duration="8190000" />
+      <workItem from="1583645098823" duration="7677000" />
+      <workItem from="1583723057558" duration="7366000" />
+      <workItem from="1583749001830" duration="7126000" />
+      <workItem from="1583811783993" duration="9581000" />
+      <workItem from="1583893613512" duration="9673000" />
+      <workItem from="1583940669417" duration="658000" />
+      <workItem from="1583942531564" duration="129000" />
+      <workItem from="1583942977768" duration="517000" />
+      <workItem from="1583984980226" duration="7936000" />
+      <workItem from="1584005215276" duration="2062000" />
+      <workItem from="1584025849887" duration="7000" />
+      <workItem from="1584067973445" duration="14920000" />
+      <workItem from="1585646420474" duration="3597000" />
+      <workItem from="1588591479930" duration="3136000" />
+      <workItem from="1588604942634" duration="27000" />
+      <workItem from="1588605446754" duration="9000" />
+      <workItem from="1588687539328" duration="985000" />
+      <workItem from="1588733179850" duration="19085000" />
+      <workItem from="1588770498751" duration="4000" />
+      <workItem from="1589165882150" duration="3561000" />
+      <workItem from="1590128050808" duration="465000" />
+      <workItem from="1590204339429" duration="336000" />
+      <workItem from="1590205567626" duration="1317000" />
+      <workItem from="1590293252758" duration="1472000" />
+      <workItem from="1590312309422" duration="17000" />
+      <workItem from="1590722531688" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1588591904575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1588591904575" />
+    <state x="598" y="91" key="#Scala" timestamp="1583671886986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="91" key="#Scala/0.0.1536.824@0.0.1536.824" timestamp="1583671886986" />
+    <state x="513" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1588591486978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1588591486978" />
+    <state x="574" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1584077562626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584077562626" />
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582706342409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1582706342409" />
+    <state x="523" y="273" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583812987191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="273" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1583812987191" />
+    <state x="523" y="127" key="DetectedRootsChooserDialog" timestamp="1582771126507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="127" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582771126507" />
+    <state x="544" y="153" key="FileChooserDialogImpl" timestamp="1589170741957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589170741957" />
+    <state width="1877" height="336" key="GridCell.Tab.0.bottom" timestamp="1590206885407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590206885407" />
+    <state width="1493" height="253" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588770359336" />
+    <state width="1877" height="336" key="GridCell.Tab.0.center" timestamp="1590206885407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590206885407" />
+    <state width="1493" height="253" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588770359336" />
+    <state width="1877" height="336" key="GridCell.Tab.0.left" timestamp="1590206885407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590206885407" />
+    <state width="1493" height="253" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588770359335" />
+    <state width="1877" height="336" key="GridCell.Tab.0.right" timestamp="1590206885407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590206885407" />
+    <state width="1493" height="253" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588770359336" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1583387690405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583387690405" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1583387690405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583387690405" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1583387690405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583387690405" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1583387690405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583387690405" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1583901544346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583901544346" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582707585385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1582707585385" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584025849723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584025849723" />
+    <state x="571" y="211" width="803" height="674" key="find.popup" timestamp="1590293489962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="211" width="803" height="674" key="find.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590293489962" />
+    <state x="457" y="167" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1589166773980" />
+    <state x="137" y="0" key="new project wizard" timestamp="1589170808310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="137" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589170808310" />
+    <state x="450" y="270" width="671" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583144696496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="270" width="671" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1583144696496" />
+    <state x="494" y="140" width="700" height="530" key="recent.locations.popup" timestamp="1583993569867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="494" y="140" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1583993569867" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583057477975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583057477975" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583992916198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583992916198" />
+  </component>
+</project>
